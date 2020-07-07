@@ -6,4 +6,4 @@ This will start the program and start tracking your progress.
 
 This will save all data to a file within this repo - "TESTINGFILE.txt"
 
-![Screenshot](screenshot.png)
+![ExampleScreenCap](ExampleScreenCap.png)
